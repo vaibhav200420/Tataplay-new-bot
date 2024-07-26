@@ -103,11 +103,11 @@ DL_DONE_MSG = """
 
 START_MSG = """
 <b>Hello <code>@{}</code>,
-A TG WEB-DL Bot</b>
+A TP WEB-DL Bot</b>
 
 > <code>{}</code>
 
-<b>Made by @conan7612</b>
+<b>Made by @Kushi_Yarige_bedda</b>
 """
 
 SIMPLE_CAPTION = '''<code>{}</code>'''
