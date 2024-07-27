@@ -13,12 +13,12 @@ class TG_CONFIG:
 
     api_hash = "436b24700208cae55ded351d8f25fd7a"
 
-    bot_token = "7137583125:AAE1uJVqsLK_q8z2M5b1FQWEHdPbujy143Y"
+    bot_token = "7334715842:AAGIoj20ec1xjFXBcoDTb1g50ASsfejUUNU"
 
     #DEVS or #OWNERS
     sudo_users = [5300197778,-1002171075401,1205196878]
 
-    session = "KRS_SaveRestricted_Bot"
+    session = "Tataplay1_bot"
 
     bot_creater = "Conan76"  # Don't Remove if you Respect the DEV
 
@@ -61,13 +61,13 @@ class PROXY_CONFIG:
 
 class FTP_CONFIG:
     #FTP Creds
-    ftp_url = "https://www.net2ftp.com/"
+    ftp_url = ""
 
-    ftp_domain = "ftpupload.net"
+    ftp_domain = ""
     
-    ftp_user = "if0_36890212"
+    ftp_user = ""
     
-    ftp_password = "6XOHEOdAp0dy5dC"
+    ftp_password = ""
 
 
 class FILENAME_CONFIG:
