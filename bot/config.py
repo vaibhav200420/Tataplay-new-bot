@@ -16,7 +16,7 @@ class TG_CONFIG:
     bot_token = "7137583125:AAE1uJVqsLK_q8z2M5b1FQWEHdPbujy143Y"
 
     #DEVS or #OWNERS
-    sudo_users = [5300197778]
+    sudo_users = [5300197778,-1002171075401]
 
     session = "KRS_SaveRestricted_Bot"
 
