@@ -61,13 +61,13 @@ class PROXY_CONFIG:
 
 class FTP_CONFIG:
     #FTP Creds
-    ftp_url = ""
+    ftp_url = "https://www.net2ftp.com/"
 
-    ftp_domain = ""
+    ftp_domain = "ftpupload.net"
     
-    ftp_user = ""
+    ftp_user = "if0_36890212"
     
-    ftp_password = ""
+    ftp_password = "6XOHEOdAp0dy5dC"
 
 
 class FILENAME_CONFIG:
